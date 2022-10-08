@@ -3,14 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-algo_method/scripts/
-algo_method/.gitignore
-algo_method/docker-compose.yml
-algo_method/Dockerfile
-algo_method/requirements.txt
-algo_method/Makefile
-algo_method/LICENSE
-algo_method/README.md
+# algo_method/scripts/
+# algo_method/.gitignore
+# algo_method/docker-compose.yml
+# algo_method/Dockerfile
+# algo_method/requirements.txt
+# algo_method/Makefile
+# algo_method/LICENSE
+# algo_method/README.md
 
 # C extensions
 *.so
