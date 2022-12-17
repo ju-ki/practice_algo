@@ -1,0 +1,10 @@
+[
+  [
+    "3 0\ntaro 175\njiro 169\nsaburo 175\n",
+    "jiro\nsaburo\n"
+  ],
+  [
+    "5 1\nhanako 157\njiro 169\nsaburo 175\nhanako 169\ntakeshi 187\n",
+    "hanako\nhanako\n"
+  ]
+]
