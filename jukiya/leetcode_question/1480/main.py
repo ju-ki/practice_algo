@@ -12,5 +12,5 @@ class Solution:
         num_length = len(nums)
         for i in range(num_length):
             output_list.append(sum(nums[:i+1]))
-            
+
         return output_list
