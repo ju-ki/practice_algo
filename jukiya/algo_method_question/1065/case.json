@@ -1,0 +1,10 @@
+[
+  [
+    "5 5 3 2\nxxoxx\nxooox\nooooo\nxooox\nxxoxx\n",
+    "ooo\nooo\nxox\n"
+  ],
+  [
+    "3 8 1 2\nabcdefgh\nijklmnop\nqrstuvwx\n",
+    "bcd\njkl\nrst\n"
+  ]
+]
