@@ -1,0 +1,14 @@
+[
+  [
+    "3 4\noxox\nxxox\noxxo\n",
+    "5\n"
+  ],
+  [
+    "4 1\nx\nx\nx\nx\n",
+    "0\n"
+  ],
+  [
+    "3 3\nooo\nooo\nooo\n",
+    "9\n"
+  ]
+]
