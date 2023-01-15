@@ -10,3 +10,4 @@
 | 1859      | Sorting the Sentence                                 | https://leetcode.com/problems/sorting-the-sentence/description/                                |
 | 1920      | Build Array from Permutation                                 | https://leetcode.com/problems/build-array-from-permutation/description/                                |
 | 1929      | Concatenate of Array                                 | https://leetcode.com/problems/concatenation-of-array/description/                                |
+| 1470      | Shuffle the array                                 | https://leetcode.com/problems/shuffle-the-array/description/                                |
