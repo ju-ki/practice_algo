@@ -1,0 +1,14 @@
+[
+  [
+    "5 green\n3 red blue green\n1 gold\n4 purple brown red silver\n2 green red\n3 gold silver green\n",
+    "3\n"
+  ],
+  [
+    "1 red\n3 gold silver yellow\n",
+    "0\n"
+  ],
+  [
+    "3 red\n3 blue red green\n2 blue red\n3 green yellow red\n",
+    "3\n"
+  ]
+]
