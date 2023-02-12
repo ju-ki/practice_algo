@@ -12,3 +12,4 @@
 | 1929      | Concatenate of Array                                 | https://leetcode.com/problems/concatenation-of-array/description/                                |
 | 1470      | Shuffle the array                                 | https://leetcode.com/problems/shuffle-the-array/description/                                |
 | 2114      | Maximum Number of Words Found in Sentences                                 | https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/                                |
+| 1290      | Convert Binary Number in a Linked List to Integer                                 | https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/                                |
