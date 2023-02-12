@@ -1,0 +1,6 @@
+[
+  [
+    "8\n0 red\n2\n3\n0 red\n1 blue\n0 orange\n2\n3\n",
+    "red\nError\norange\nblue\n"
+  ]
+]
