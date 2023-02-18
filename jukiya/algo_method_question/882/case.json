@@ -1,0 +1,10 @@
+[
+  [
+    "7\n0 walking\n0 lunch\n1\n0 shopping\n0 work\n1\n1\n",
+    "walking\nlunch\nshopping\n"
+  ],
+  [
+    "3\n0 abc\n0 stu\n0 xyz\n",
+    ""
+  ]
+]
