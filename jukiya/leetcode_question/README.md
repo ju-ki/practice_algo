@@ -13,3 +13,8 @@
 | 1470      | Shuffle the array                                 | https://leetcode.com/problems/shuffle-the-array/description/                                |
 | 2114      | Maximum Number of Words Found in Sentences                                 | https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/                                |
 | 1290      | Convert Binary Number in a Linked List to Integer                                 | https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/                                |
+| 682      | Baseball Game                                 | https://leetcode.com/problems/baseball-game/description/                                |
+| 496      | next Greather element                                 | https://leetcode.com/problems/next-greater-element-i/description/                                |
+| 739      | Daily Temperature                                 | https://leetcode.com/problems/daily-temperatures/description/                                |
+| 386      | Lexicographical Numbers                                 | https://leetcode.com/problems/lexicographical-numbers/description/                                |
+| 2037      | Minimum Number of Moves to Seat Everyone                                 | https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/                                |
