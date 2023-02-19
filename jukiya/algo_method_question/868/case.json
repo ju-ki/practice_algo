@@ -1,0 +1,10 @@
+[
+  [
+    "4\nalgo method algo algo\n5\n0 algomethod\n0 method\n2 method\n1 algo\n2 algo\n",
+    "2\n0\n"
+  ],
+  [
+    "5\nabc pqr abc xyz aaa\n6\n2 lmn\n2 abc\n1 bbb\n0 abc\n1 xyz\n2 abc\n",
+    "0\n2\n3\n"
+  ]
+]
