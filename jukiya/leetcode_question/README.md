@@ -18,3 +18,11 @@
 | 739      | Daily Temperature                                 | https://leetcode.com/problems/daily-temperatures/description/                                |
 | 386      | Lexicographical Numbers                                 | https://leetcode.com/problems/lexicographical-numbers/description/                                |
 | 2037      | Minimum Number of Moves to Seat Everyone                                 | https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/                                |
+| 771      | Jewels and Stones                                 | https://leetcode.com/problems/jewels-and-stones/description/                                |
+| 1512      | Number of Good Pairs                                 | https://leetcode.com/problems/number-of-good-pairs/description/                                |
+| 1365      | How Many Numbers Are Smaller Than the Current Number                                 | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/                                |
+| 217      | Contains Duplicate                                 | https://leetcode.com/problems/contains-duplicate/description/                                |
+| 242      | Valid Anagram                                 | https://leetcode.com/problems/valid-anagram/description/                                |
+| 1      | Two Sum                                 | https://leetcode.com/problems/two-sum/description/                                |
+| 49      | Group Anagrams                                 | https://leetcode.com/problems/group-anagrams/description/                                |
+| 20      | Valid Parentheses                                 | https://leetcode.com/problems/valid-parentheses/description/                                |
