@@ -26,3 +26,5 @@
 | 1      | Two Sum                                 | https://leetcode.com/problems/two-sum/description/                                |
 | 49      | Group Anagrams                                 | https://leetcode.com/problems/group-anagrams/description/                                |
 | 20      | Valid Parentheses                                 | https://leetcode.com/problems/valid-parentheses/description/                                |
+| 167      | Two Sum II - Input Array Is Sorted                                 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/                                |
+| 15      | 3Sum                                 | https://leetcode.com/problems/3sum/description/                                |
