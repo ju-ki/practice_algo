@@ -7,7 +7,6 @@ while even_flag:
         if a % 2 != 0:
             even_flag = False
     if even_flag:
-        for i in range(N):
-            A[i] /= 2
+        A = [n//2 for n in A]
         counter += 1
 print(counter)

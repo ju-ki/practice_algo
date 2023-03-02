@@ -1,6 +1,4 @@
-S = "dreameraser"
-# maerdesare
-
+S = input()
 divide_list = ["dream", "dreamer", "erase", "eraser"]
 reversed_S = "".join(list(reversed(S)))
 
