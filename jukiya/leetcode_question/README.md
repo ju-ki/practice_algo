@@ -28,3 +28,6 @@
 | 20      | Valid Parentheses                                 | https://leetcode.com/problems/valid-parentheses/description/                                |
 | 167      | Two Sum II - Input Array Is Sorted                                 | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/                                |
 | 15      | 3Sum                                 | https://leetcode.com/problems/3sum/description/                                |
+| 704      | Binary Search                                 | https://leetcode.com/problems/binary-search/description/                                |
+| 74      | Search a 2D Matrix                                 | https://leetcode.com/problems/search-a-2d-matrix/description/                                |
+| 875      | Koko Eating Bananas                                 | https://leetcode.com/problems/koko-eating-bananas/description/                                |

@@ -5,6 +5,8 @@ __pycache__/
 
 algo_method/
 
+.vscode/
+
 # C extensions
 *.so
 
