@@ -7,12 +7,14 @@ get_question:
 	mkdir ${id}/tests
 	oj download  ${url} -d ${id}/tests
 	touch ${id}/main.py
+	code ${id}/main.py
 
 get_question_without_url:
 	mkdir ${contest}_${id}
 	mkdir ${contest}_${id}/tests
 	oj download  https://atcoder.jp/contests/${contest}/tasks/${contest}_${id} -d ${contest}_${id}/tests
 	touch ${contest}_${id}/main.py
+	code ${contest}_${id}/main.py
 
 run_test:
 	oj test -c "python3 ./${id}/main.py" -d ${id}/tests/
